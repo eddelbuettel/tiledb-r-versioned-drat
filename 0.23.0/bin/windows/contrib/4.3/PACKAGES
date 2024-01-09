@@ -1,0 +1,11 @@
+Package: tiledb
+Version: 0.23.0
+License: MIT + file LICENSE
+NeedsCompilation: yes
+Built: R 4.3.2; x86_64-w64-mingw32; 2024-01-09 18:21:18 UTC; windows
+Archs: x64
+MD5sum: 710686ded3be6a48a01084f427483b82
+LinkingTo: Rcpp, RcppInt64
+Imports: methods, Rcpp (>= 1.0.8), nanotime, spdl
+Suggests: tinytest, simplermarkdown, curl, bit64, Matrix, palmerpenguins, nycflights13, data.table, tibble, arrow
+
